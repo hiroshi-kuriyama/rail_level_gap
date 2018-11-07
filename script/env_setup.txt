@@ -1,6 +1,6 @@
 conda create -n rail_level_gap python=3.7
 conda install numpy=1.15.1 pandas=0.23.4 matplotlib=2.2.3 scikit-learn=0.19.1 jupyterlab=0.34.9
-conda install -c conda-forge lightgbm=2.1.2
+conda install -c conda-forge lightgbm=2.2.1
 conda install nodejs=8.12.0
 jupyter labextension install jupyterlab_vim
 
