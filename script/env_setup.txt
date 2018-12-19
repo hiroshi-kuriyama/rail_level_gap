@@ -4,4 +4,4 @@ conda install -c conda-forge lightgbm=2.2.1
 conda install nodejs=8.12.0
 conda install -c conda-forge hyperopt=0.1.1
 jupyter labextension install jupyterlab_vim
-
+pip install optuna=0.5.0
